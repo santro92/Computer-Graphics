@@ -1,0 +1,18 @@
+1) Name          : Santhanakrishnan Ramani
+    NickName   : Santa
+
+2) Studying     : MS in CS
+
+3) Platform 
+    Processor   : Intel(R) Core(TM) i7-4810MQ CPU @2.8GHz 
+    RAM           : 16 GB
+    OS              : Windows 10 / Ubuntu using VirtualBox
+    Graphics     : NVIDIA GEFORCE  2GB
+
+4) Background: Studied Computer Graphics theory as a part of my UnderGrad studies in India
+
+5) Interests      : Games and Scientific Visualization
+
+6) Projects       : Yet to come up with an idea
+
+ 

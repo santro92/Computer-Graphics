@@ -1,0 +1,29 @@
+hw3: Lighting & Texture
+
+Santhanakrishnan Ramani
+CSCI 4229/5229 Summer 2016
+Time Taken = approx 10 hrs
+
+Key bindings
+  
+  a/A        Decrease/increase ambient light
+  d/D        Decrease/increase diffuse light
+  s/S        Decrease/increase specular light
+  e/E        Decrease/increase emitted light
+  n/N        Decrease/increase shininess
+  F1         Toggle smooth/flat shading
+  F2         Toggle local viewer mode
+  F3         Toggle light distance (1/5)
+  F8         Change ball increment
+  []         Lower/rise light
+  +/-        Change field of view of perspective
+  </>        Move Light
+  m          Toggles light movement
+  p          Toggles ortogonal/perspective projection
+  l          Toggles lighting
+  x          Toggle axes
+  0          Reset view angle
+  ESC        Exit
+  arrows     Change view angle
+  PgDn/PgUp  Zoom in and out
+  

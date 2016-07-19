@@ -1,0 +1,5 @@
+When the lorenz parameters are set at s=16,b=4,r=45 and the initial condition as (x,y,z) = (-13,-12,52)the system exhibits chaotic behaviour. One amazing fact about chaotic systems are no two points in the 50,000 points we generate are the same and there wouldn't be any crossing over of lines.
+
+On keeping a & b values fixed and increasing the value of r, 0 < r < 1, the system converges to the origin, a stable fixed point. 13.5 < r < 14, the system converges to a stable fixed point on the left of the origin initially and shifts to the one on the right. 23 < r < 30, the system continues to converge to stable fixed point, but suddenly starts to get repelled from the fixed point and displays chaotic behavior.
+
+The breakdown in dynamics of the Lorenz System is clearly evident as the value of error bound is increased.

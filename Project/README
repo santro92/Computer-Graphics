@@ -1,0 +1,37 @@
+Final Project: Billiards
+
+Santhanakrishnan Ramani
+CSCI 4229/5229 Summer 2016
+Time Taken = approx 50 hrs
+
+Key bindings
+  
+  arrows     Change view angle
+  PgDn/PgUp  Zoom in and out
+  ESC        Exit
+  0          Reset view angle and bring the Cue Ball & Stick to its original position
+  q/Q        Toggle axes
+  +/-        Change field of view of perspective
+  
+  /* Lighting Parameters */
+  l          Toggles lighting
+  a/A        Decrease/increase ambient light
+  d/D        Decrease/increase diffuse light
+  s/S        Decrease/increase specular light
+  e/E        Decrease/increase emitted light
+  n/N        Decrease/increase shininess
+ 
+  /* Game Parameters */
+  x/X        To Move the CueStick in x direction
+  y/Y        To Move the CueStick in y direction
+  z/Z        To Move the CueStick in z Direction
+  1/2        To change the angle of CueStick in x direction
+  3/4        To change the angle of CueStick in y direction
+  p/P        To hide/unhide the power bar
+  <>         To increase or decrease the power value 
+  b/B        To bring back the CueBall that went inside the pocket
+  h/H        To hit the CueBall
+  g/G        To enable assist
+
+  
+Have drawn the Billiards Table, CueBalls, CueSticks, ScoreBoard, Power Bar and have added textures and two spotlights to the scence, which I have enclosed inside a skybox to give it a good visual view. The CueStick could be moved around and its angle could be changed, the power bar shows the power for a particular shot which could be increased/decreased, and a ray connecting the top of the CueStick to that of the CueBall which will be visible on enabling assist. The ray is drawn by making use of the direction vector obtained using the parametric equation got by subtracting the top and bottom point of the CueStick. Have implemented collision detection for the CueBall, so only when the top of the CueStick connects with that of the ball correctly the CueBall moves. The movement of rest of the balls are random as I didn't much time to figure out the actual movement. Boundry check is made and balls disapper if they go near the pockets. The CueBall speed vaires based on the power selected. I have made the balls to reflect back when hit the boundry, and the CueBall to reflect when colliding with a ball. The Scoreboard was implemented using polygon offset and its value is changed if any of the balls goes to pocket.

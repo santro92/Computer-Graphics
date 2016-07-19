@@ -1,0 +1,11 @@
+My plan is to create an OpenGL program to design a Billiards Game also known as Pool game.
+
+I will create the objects myself that are part of this game namely a Billiards Table having six receptacles called pockets along the rails, 15 Balls plus a Cue Ball, a Cue Stick and a playing area environment. 
+
+I will implement both the orthogonal and perspective projection and first person mode to a give a feel of playing the game and will make use of textures, lightings, and sounds to add reality to the scene, which will be made to be viewed at all angles.
+
+I will also allow the user to control the Cue Stick parameters, like the angle, the position, power that will be given at the time of hitting the Cue Ball.
+
+If time permits, I will try to mimic the actual physics of how the balls move on being hit. 
+
+I aim to have the basic game setup at the time of review, and improve or correct things based on feedback.

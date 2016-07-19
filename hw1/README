@@ -1,0 +1,17 @@
+hw1: Lorenz Attractor
+
+Santhanakrishnan Ramani
+CSCI 4229/5229 Summer 2016
+Time Taken = approx 4 hrs
+
+Key bindings
+  
+  r/R    Decrease/Increase value of 'R'  by 1
+  b/B    Decrease/Increase value of 'B'  by 0.1
+  s/S    Decrease/Increase value of 's'  by 1
+  t/T    Decrease/Increase value of 'dt' by 0.0001
+  
+  arrows Change view angle
+  0      Reset view angle and lorenz parameters
+  ESC    Exit
+

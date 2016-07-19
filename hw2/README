@@ -1,0 +1,18 @@
+hw2: Drawing Scene in 3D
+
+Santhanakrishnan Ramani
+CSCI 4229/5229 Summer 2016
+Time Taken = approx 10 hrs
+
+Key bindings
+  
+  m          Toggle between perspective and orthogonal
+  f          Toggle fpn
+  w/s        To move forward and backward in fpn mode
+  =/-        Changes field of view for perspective
+  a          Toggle axes  
+  arrows     Change view angle
+  PgDn/PgUp  Zoom in and out
+  0          Reset view angle
+  ESC        Exit
+  
